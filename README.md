@@ -1,11 +1,12 @@
 
 ### Table of Contents
+by 3liud
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+- [Installation <a name="installation"></a>](#installation-)
+- [Project Motivation<a name="motivation"></a>](#project-motivation)
+- [File Descriptions <a name="files"></a>](#file-descriptions-)
+- [Results<a name="results"></a>](#results)
+- [Licensing, Authors, Acknowledgements<a name="licensing"></a>](#licensing-authors-acknowledgements)
 
 ## Installation <a name="installation"></a>
 
